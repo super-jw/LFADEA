@@ -20,7 +20,7 @@ zero123++
 
 2. Download dataset from [SyncDreamer](https://github.com/liuyuan-pal/SyncDreamer). We provide some sample images in ``3d_assets_protection`` folder.
 
-**Attack Wonder3d**
+**Attack Zero123++**
 
 ```bash
 python attack.py
