@@ -14,7 +14,7 @@ This paper is the first to address the ***intellectual property infringement*** 
 
 ## Environment
 
-The repository is divided into two parts, `wonder3d` folder contains the code attacking wonder3d, and `zero123++` folder contains the code attacking zero123++. Please cheak the environment detail in each folder
+The repository is divided into two parts, `wonder3d` folder contains the code attacking Wonder3d, and `zero123++` folder contains the code attacking Zero123++. Please cheak the environment detail in each folder.
 
 ## Content
 
