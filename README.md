@@ -4,8 +4,6 @@ Code for ICME 2025 "[Latent Feature and Attention Dual Erasure Attack against Mu
 
 by *Jingwei Sun, Xuchong Zhang, Changfeng Sun, Qicheng Bai, Hongbin Sun*.
 
-Full code and instructions will be completed soon.
-
 ## Introduction
 
 This paper is the first to address the ***intellectual property infringement*** issue arising from Multi-View Diffusion Models. Accordingly, we propose a novel ***latent feature and attention dual erasure attack*** to disrupt the distribution of latent feature and the consistency across the generated images from multi-view and multi-domain simultaneously.
